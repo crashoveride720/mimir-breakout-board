@@ -1,0 +1,134 @@
+# Bill of Materials (BOM)
+
+**Project:** Mimir ESP32-S3 Carrier Board
+
+**Revision:** 1.2
+
+This Bill of Materials lists all components required to fully assemble one Mimir ESP32-S3 Carrier Board.
+
+---
+
+# Required Components
+
+| Qty | Item | Description | Notes |
+|----:|------|-------------|-------|
+| 1 | ESP32 Development Board | UIICPAL ESP32-S3 N16R8 (16 MB Flash / 8 MB PSRAM) | Required |
+| 1 | Carrier PCB | Mimir ESP32-S3 Carrier Board | Manufactured PCB |
+| 1 | CAN Bus Module | SN65HVD230 CAN Bus Transceiver Module | Required |
+| 1 | MicroSD Module | SPI MicroSD Adapter Module | Required |
+| 2 | 22-Pin Female Header | 2.54 mm Pitch PCB Female Header | ESP32 Socket |
+| 2 | 12-Pin Screw Terminal | 2.54 mm Pitch PCB Screw Terminal | GPIO Connections |
+| 2 | 10-Pin Screw Terminal | 2.54 mm Pitch PCB Screw Terminal | GPIO Connections |
+| 2 | 2-Pin Screw Terminal | 2.54 mm Pitch PCB Screw Terminal | Power Input |
+
+---
+
+# Reference Hardware
+
+The PCB was designed and mechanically verified using the following commercially available modules.
+
+---
+
+## ESP32 Development Board
+
+UIICPAL ESP32-S3 N16R8 Development Board
+
+Features
+
+- ESP32-S3
+- 16 MB Flash
+- 8 MB PSRAM
+- Dual USB-C
+- Native USB
+
+Amazon
+
+https://www.amazon.com/dp/B0H2918LZD
+
+---
+
+## CAN Bus Module
+
+SN65HVD230 CAN Bus Transceiver Module
+
+Amazon
+
+https://www.amazon.com/dp/B0GVD5LM42
+
+---
+
+## MicroSD Module
+
+SPI MicroSD Adapter Module
+
+Push-push (spring eject) socket
+
+Amazon
+
+https://www.amazon.com/dp/B0BV8ZQ81F
+
+---
+
+# Additional Hardware
+
+## Female Headers
+
+Quantity: 2
+
+Description:
+
+- 22 Position
+- 2.54 mm Pitch
+- Straight PCB Female Header
+
+---
+
+## Screw Terminals
+
+### 12 Position *
+
+Quantity: 2
+
+Specifications
+
+- 2.54 mm Pitch
+- Straight PCB Mount
+
+---
+
+### 10 Position *
+
+Quantity: 2
+
+Specifications
+
+- 2.54 mm Pitch
+- Straight PCB Mount
+
+---
+
+### 2 Position
+
+Quantity: 2
+
+Specifications
+
+- 2.54 mm Pitch
+- Straight PCB Mount
+
+---
+
+# Notes
+
+Beginning with Revision 1.2, the PCB terminal block drill diameter was increased from **0.8 mm** to **1.0 mm**.
+
+This change improves compatibility with multiple commercially available 2.54 mm terminal block families while maintaining the same board dimensions and routing.
+
+---
+
+**Total Unique Components:** 8
+
+**Total Parts Required:** 12
+
+
+* can be replaced with a 22p 2.54 pitch Screw Terminal block if they can be sourced.
