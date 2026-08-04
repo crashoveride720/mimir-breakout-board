@@ -7,18 +7,22 @@ Each hardware revision is stored in its own directory to preserve the complete e
 ## Revision Structure
 
 ```
-hardware/
-├── rev1.0/
-│   ├── kicad/
-│   ├── gerbers/
-│   ├── pdf/
-│   └── step/
-│
-└── rev1.2/
-    ├── kicad/
-    ├── gerbers/
-    ├── pdf/
-    └── step/
+Rev 1.0
+├── Initial production release
+├── Mechanical validation
+└── Successfully assembled
+
+Rev 1.2
+├── Silkscreen improvements
+├── Documentation improvements
+└── (Never manufactured)
+
+Rev 1.2.1A
+├── Increased terminal block drill diameter
+├── Improved terminal block compatibility
+├── White solder mask
+├── Black silkscreen
+└── Currently in fabrication
 ```
 
 ## Contents
