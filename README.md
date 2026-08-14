@@ -47,6 +47,12 @@ The primary objectives of this project were:
 - Designed in KiCad
 - Open Hardware
 
+<img width="2252" height="4000" alt="20260811_180057" src="https://github.com/user-attachments/assets/52e8293f-8677-48ed-9746-66d1e9d4faf4" />
+<img width="2252" height="4000" alt="20260811_180046" src="https://github.com/user-attachments/assets/a06ecb04-8c73-41f8-9754-b8e13735fd19" />
+<img width="2252" height="4000" alt="20260811_175915" src="https://github.com/user-attachments/assets/117e922b-e66a-4bca-b7bc-af4d9ea6a645" />
+<img width="2252" height="4000" alt="20260811_175910" src="https://github.com/user-attachments/assets/93cad456-27d9-46ff-b365-b8fe6bc3c78e" />
+
+
 ---
 
 # Supported Hardware
